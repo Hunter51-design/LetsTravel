@@ -10,8 +10,7 @@
 - Member 2: Vishnupriya C - GCE Kannur
 -  Member 3: Ayisha Sherin - GCE Kannur
 
-### Hosted Project Link
-[mention your project hosted project link here]
+
 
 ### Project Description
 LetsTravel is a modern website which enables the user to create a travel plan itinerary according to budget,number of people and duration(days). It then suggest the most relevant places according to the inputs we provided.
